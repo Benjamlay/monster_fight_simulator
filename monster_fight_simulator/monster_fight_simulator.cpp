@@ -14,7 +14,7 @@ int initiative = 0;
 
 
 int main()
-{ 
+{
 
 	char reponse;
 
